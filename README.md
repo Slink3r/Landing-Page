@@ -1,2 +1,2 @@
 # WebsiteProject
-Learning Exercize
+Learning exercise
